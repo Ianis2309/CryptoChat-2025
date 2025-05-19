@@ -1,0 +1,17 @@
+D:\++VS_Projects\CryptoChat-App\Server\ClientHandler.cpp;D:\++VS_Projects\CryptoChat-App\Server\x64\Debug\ClientHandler.obj
+D:\++VS_Projects\CryptoChat-App\Server\ClientSocket.cpp;D:\++VS_Projects\CryptoChat-App\Server\x64\Debug\ClientSocket.obj
+D:\++VS_Projects\CryptoChat-App\Server\CustomerTable.cpp;D:\++VS_Projects\CryptoChat-App\Server\x64\Debug\CustomerTable.obj
+D:\++VS_Projects\CryptoChat-App\Server\DatabaseConection.cpp;D:\++VS_Projects\CryptoChat-App\Server\x64\Debug\DatabaseConection.obj
+D:\++VS_Projects\CryptoChat-App\Server\DatabaseException.cpp;D:\++VS_Projects\CryptoChat-App\Server\x64\Debug\DatabaseException.obj
+D:\++VS_Projects\CryptoChat-App\Server\Logger.cpp;D:\++VS_Projects\CryptoChat-App\Server\x64\Debug\Logger.obj
+D:\++VS_Projects\CryptoChat-App\Server\MessageReceiver.cpp;D:\++VS_Projects\CryptoChat-App\Server\x64\Debug\MessageReceiver.obj
+D:\++VS_Projects\CryptoChat-App\Server\ProcessedMessage.cpp;D:\++VS_Projects\CryptoChat-App\Server\x64\Debug\ProcessedMessage.obj
+D:\++VS_Projects\CryptoChat-App\Server\Responsible.cpp;D:\++VS_Projects\CryptoChat-App\Server\x64\Debug\Responsible.obj
+D:\++VS_Projects\CryptoChat-App\Server\Security.cpp;D:\++VS_Projects\CryptoChat-App\Server\x64\Debug\Security.obj
+D:\++VS_Projects\CryptoChat-App\Server\Server.cpp;D:\++VS_Projects\CryptoChat-App\Server\x64\Debug\Server.obj
+D:\++VS_Projects\CryptoChat-App\Server\ServerCore.cpp;D:\++VS_Projects\CryptoChat-App\Server\x64\Debug\ServerCore.obj
+D:\++VS_Projects\CryptoChat-App\Server\ListeningSocket.cpp;D:\++VS_Projects\CryptoChat-App\Server\x64\Debug\ListeningSocket.obj
+D:\++VS_Projects\CryptoChat-App\Server\SignalException.cpp;D:\++VS_Projects\CryptoChat-App\Server\x64\Debug\SignalException.obj
+D:\++VS_Projects\CryptoChat-App\Server\SocketManager.cpp;D:\++VS_Projects\CryptoChat-App\Server\x64\Debug\SocketManager.obj
+D:\++VS_Projects\CryptoChat-App\Server\SystemExeption.cpp;D:\++VS_Projects\CryptoChat-App\Server\x64\Debug\SystemExeption.obj
+D:\++VS_Projects\CryptoChat-App\Server\ValidationException.cpp;D:\++VS_Projects\CryptoChat-App\Server\x64\Debug\ValidationException.obj
