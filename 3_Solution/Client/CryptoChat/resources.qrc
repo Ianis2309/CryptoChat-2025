@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>LoadingScreen.gif</file>
+        <file>CCicon.ico</file>
+        <file>logo2 (1).png</file>
+        <file>CCBackground2.jpg</file>
+        <file>CCBackground1.jpg</file>
+        <file>CCbg.png</file>
+        <file>CCBackground2.png</file>
+        <file>userimg.png</file>
+        <file>eyeclosed.png</file>
+        <file>eyeopen.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix1"/>
+</RCC>
